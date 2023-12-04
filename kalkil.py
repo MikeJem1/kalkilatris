@@ -16,7 +16,7 @@ def adisyone():
 def soustre():
     a=input("rantre premye nonb lan: ")
     b=input("rantre dezyem nonb lan: ")
-    rezilta=soustraction(a,b)
+    rezilta=divizyon(a,b)
     print(f"rezilta operasyon ou an se {rezilta}")
     return rezilta
 
